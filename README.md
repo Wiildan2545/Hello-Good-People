@@ -19,6 +19,7 @@ Abstractly discussed love usually refers to an experience one person feels for a
 
 The complex and abstract nature of love often reduces discourse of love to a thought-terminating cliché. Several common proverbs regard love, from Virgil's "Love conquers all" to The Beatles' "All You Need Is Love". St. Thomas Aquinas, following Aristotle, defines love as "to will the good of another." Bertrand Russell describes love as a condition of "absolute value," as opposed to relative value. Philosopher Gottfried Leibniz said that love is "to be delighted by the happiness of another." Meher Baba stated that in love there is a "feeling of unity" and an "active appreciation of the intrinsic worth of the object of love." Biologist Jeremy Griffith defines love as "unconditional selflessness".
 
-### Support or Contact
+### Contact Person
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email   :muhammadwildan2545@gmail.com
+Line    :mwiildan_25
