@@ -7,27 +7,7 @@ And Know I'll tell You About Love
 
 ### Love
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Love encompasses a variety of different emotional and mental states, typically strongly and positively experienced, ranging from the deepest interpersonal affection to the simplest pleasure. An example of this range of meanings is that the love of a mother differs from the love of a spouse differs from the love of food. Most commonly, love refers to a feeling of strong attraction and emotional attachment. Love can also be a virtue representing human kindness, compassion, and affection—"the unselfish loyal and benevolent concern for the good of another". It may also describe compassionate and affectionate actions towards other humans, one's self or animals.
 
 ### Jekyll Themes
 
